@@ -1,0 +1,9 @@
+<resources>
+    <!-- Uygulamanızın temel temasını tanımlayın -->
+    <style name="Theme.NewSkinCheckApp" parent="Theme.AppCompat.DayNight">
+        <!-- Tema özelleştirmelerini burada yapabilirsiniz -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

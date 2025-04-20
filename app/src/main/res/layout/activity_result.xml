@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#1A004D">
+
+
+    <TextView
+        android:id="@+id/tvMainTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="ANALYSIS RESULTS"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_white"
+        android:paddingBottom="16dp" />
+
+    <!-- Analiz Sonucu Başlığı -->
+    <TextView
+        android:id="@+id/tvResultTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:textColor="#FFB74D"
+        android:text="Result Title"
+        android:background="@drawable/item_background"/>
+
+    <!-- Analiz Sonucu Detayları -->
+    <TextView
+        android:id="@+id/tvResultDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textColor="@color/text_white"
+        android:text="Result Details"
+        android:background="@drawable/item_background"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="0.2" />
+
+    <!-- Buton -->
+    <Button
+        android:id="@+id/btnViewProducts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Recommended Products"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="350dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

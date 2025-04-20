@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637960076718",
+    "firebase_url": "https://skincheck-75654-default-rtdb.firebaseio.com",
+    "project_id": "skincheck-75654",
+    "storage_bucket": "skincheck-75654.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637960076718:android:914df2a8b2c6b6e0c45c3f",
+        "android_client_info": {
+          "package_name": "com.example.newskincheckapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637960076718-8gptlsp9p7bv9n5p1k2imlink4cplki8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newskincheckapp",
+            "certificate_hash": "5b81867b1fa11a446d7ca26cca119c5c818a0109"
+          }
+        },
+        {
+          "client_id": "637960076718-80ril1kdu58q20s6ebuflgm0deh728sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnFejuieP7mcMMQBs2RMcDrMEj7f2sh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637960076718-80ril1kdu58q20s6ebuflgm0deh728sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

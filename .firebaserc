@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "skincheck-75654",
+    "firebase init storage": "skincheck-75654"
+  },
+  "targets": {},
+  "etags": {}
+}

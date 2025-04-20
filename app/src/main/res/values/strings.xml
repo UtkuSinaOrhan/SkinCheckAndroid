@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkinCheckApp</string>
+    <string name="default_web_client_id">637960076718-80ril1kdu58q20s6ebuflgm0deh728sf.apps.googleusercontent.com</string>
+    <string name="logo_desc">Skin Check Logo</string>
+    <string name="skin_check_logo">Skin Check logo</string>
+    <string name="failed_to_upload_photo">Failed to upload photo!</string>
+
+
+</resources>
